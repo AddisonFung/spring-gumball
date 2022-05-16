@@ -25,3 +25,6 @@ Lab 10 Screenshots
 
 ![image](https://user-images.githubusercontent.com/42878755/168535862-185c9408-d250-4579-ad02-bc44da21de5c.png)
 
+At some point I ran into an error 
+
+![image](https://user-images.githubusercontent.com/42878755/168539289-b87158f7-4925-4038-b5bf-bcdbc8e1124f.png)
