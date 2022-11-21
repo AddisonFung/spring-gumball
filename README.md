@@ -1,6 +1,4 @@
-Lab 10 Screenshots
-
-- CI Workflow (Part 1)
+**CI Workflow (Part 1)**
 
 ![Screenshot_20221120_102454](https://user-images.githubusercontent.com/42878755/202980598-207a35d8-bf71-447b-b260-7d9def554fbc.png)
 
